@@ -1,0 +1,6 @@
+5
+1 Programming_C_Language Brian_Kernighan 1978 29.99 2
+2 Artificial_Intelligence Peter_Norvig 2022 89.99 3
+3 Machine_Learning_Techniques Tom_Mitchell 2021 79.50 1
+4 Deep_Learning Ian_Goodfellow 2022 120.00 1
+5 Algorithms_Design Jon_Kleinberg 2010 49.99 2

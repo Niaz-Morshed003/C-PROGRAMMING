@@ -1,0 +1,12 @@
+1
+The Great Book
+John Doe, Jane Smith
+2022 19.99 3
+2
+Another Tale
+Alice Johnson, Bob White
+2021 15.49 2
+3
+Tech Innovations
+Charlie Brown, Emily White
+2022 29.99 1
