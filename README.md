@@ -1,4 +1,4 @@
-# C Programming Journey 🚀
+# C Programming Journey :
 
 Welcome to my C Programming repository! This space serves as a centralized archive for all the source code, laboratory assignments, and problem-solving exercises I have developed while mastering the fundamentals of structured programming in C.
 
