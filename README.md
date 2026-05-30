@@ -39,4 +39,5 @@ To execute these programs on your local machine, follow these steps:
 
 1. Clone the repository using Git:
 ```bash
+```bash
 git clone [https://github.com/Niaz-Morshed003/C-PROGRAMMING.git](https://github.com/Niaz-Morshed003/C-PROGRAMMING.git)
