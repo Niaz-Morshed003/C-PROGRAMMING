@@ -1,32 +1,26 @@
-# C Programming Repository :
+# C Programming
 
-Welcome to my C Programming repository. This space serves as a centralized archive for the source code, laboratory assignments, and problem-solving exercises developed while mastering the fundamentals of structured programming in C.
+My C coursework, all in one place — 182 programs written while learning
+structured programming: basics, loops, patterns, arrays, strings, functions,
+and finally structures and pointers. Includes lab assignments and
+class-test preparation.
 
----
+## What's inside
 
-### Repository Structure and Topic Breakdown
+- `basic` — first programs: input/output, variables
+- `OPERATOR` — arithmetic, logical, relational and bitwise operators
+- `CONDITION` — if-else, switch-case
+- `LOOP`, `LOOP SERIES` — for, while, do-while, number series
+- `SELF TEST LOOP` — practice problems (Armstrong numbers, palindromes)
+- `PATTERN` — shapes and designs with nested loops
+- `1D ARRAY`, `2D ARRAY` — arrays and matrix problems
+- `STRING` — character arrays, copy and check programs
+- `FUNCTION` — splitting code into reusable functions
+- `structure and pointer` — pointers, addresses, structures
+- `CT PREPARATION` — practice code before class tests
+- `SPL LAB ASSIGNMENT,0112330504` — my submitted lab solutions (PROBLEM 1, 2, ...)
 
-The codebase is organized into dedicated directories covering fundamental to advanced programming concepts:
+## How to run
 
-*   **Core Concepts and Logic Building:**
-    *   `basic`: Introductory syntax, variable declarations, and basic input/output operations.
-    *   `OPERATOR`: Practical implementation of arithmetic, logical, relational, and bitwise operators.
-    *   `CONDITION`: Decision-making structures, including if-else statements and switch-case blocks.
-
-*   **Control Flow and Iteration:**
-    *   `LOOP` & `LOOP SERIES`: Iterative logic utilizing for, while, and do-while loops, along with mathematical series evaluation.
-    *   `SELF TEST LOOP`: Self-assessment exercises designed to strengthen loop control mechanisms.
-    *   `PATTERN`: Complex nested loop implementations for rendering diverse geometrical patterns.
-
-*   **Data Structures and Modular Programming:**
-    *   `1D ARRAY`: Single-dimensional arrays handling structured datasets and basic manipulation.
-    *   `2D ARRAY`: Multi-dimensional arrays focusing on matrix operations and grid-based logic.
-    *   `STRING`: Character arrays and native string handling functions.
-    *   `FUNCTION`: Modular code design through user-defined functions and parameter passing techniques.
-
-*   **Advanced Programming:**
-    *   `structure and pointer`: Memory addressing techniques via pointers and custom data modeling using structures.
-
-*   **Academic Assessments:**
-    *   `CT PREPARATION`: Curated code blocks prepared for competitive class tests and evaluations.
-    *   `SPL LAB ASSIGNMENT,0112330504`: Formal solutions developed for university Structured Programming Language (SPL) laboratory assignments.
+```bash
+gcc "LOOP/armstrong.c" -o armstrong && ./armstrong
